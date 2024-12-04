@@ -1,0 +1,5 @@
+package com.example.responsivewebapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
